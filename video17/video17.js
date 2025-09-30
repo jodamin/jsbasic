@@ -7,3 +7,4 @@ height = 100;
 
 console.log("Age is:", age);
 console.log("Height is:", height);
+
