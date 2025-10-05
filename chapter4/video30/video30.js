@@ -11,4 +11,3 @@ function sum(a, b) {
     return sum;
 };
 console.log("sum =", sum(5, 10));
-
