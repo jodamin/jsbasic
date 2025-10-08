@@ -6,3 +6,4 @@ console.log('mydiv:', myDiv)
 
 const AllmyDiv = document.querySelectorAll(".helloWorld")
 console.log('myAlldiv:', AllmyDiv)
+
